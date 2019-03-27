@@ -1,0 +1,55 @@
+.page {
+	background-color: black;
+	color: white;
+	padding-top: 5;
+}
+
+.card {
+	border-radius: 5;
+	margin: 20;
+	background: linear-gradient(to right top, #1e022b, #300246);
+	height: 85%;
+}
+
+.modal-card {
+	border-radius: 5;
+	margin: 20;
+	background-color: #e3e9f8;
+	color: #131636;
+	height: 50%;
+}
+
+.page-title {
+	text-align: center;
+	font-size: 25;
+	font-family: Quicksand;
+}
+.nav-btn {
+	border-radius: 20;
+	padding: 10;
+	margin: 10;
+	background-color: #180e34;
+}
+
+.purple {
+	background-color: #220f55;
+}
+
+.recipe-card{
+	margin: 5 20 0 20;
+	padding: 15;
+	border-radius:5;
+	background: linear-gradient(to right top, #1e022b, #300246);
+	color: white;
+	font-family: Quicksand;
+	font-size: 20;
+	font-weight: bold;
+}
+
+.result-button {
+	padding: 10;
+	margin: 10;
+	color: white;
+	background-color: rgb(138, 43, 226);
+	border-radius: 5;
+  }
